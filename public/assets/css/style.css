@@ -119,7 +119,7 @@ h5 {
     display: inline-block;
     width: fit-content;
     text-decoration: none;
-    padding: 18px 28px;
+    padding: 16px 28px;
     background-color: rgba(var(--primary-color), 1);
     border: 1px solid rgba(var(--primary-color), 1);
     border-radius: 9999px;
@@ -149,7 +149,7 @@ h5 {
     display: inline-block;
     width: fit-content;
     text-decoration: none;
-    padding: 18px 28px;
+    padding: 16px 28px;
     background-color: rgba(var(--dark-color), 1);
     border: 1px solid rgba(var(--dark-color), 0.12);
     border-radius: 9999px;

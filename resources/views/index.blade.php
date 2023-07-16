@@ -163,6 +163,58 @@
                 </div>
             </section>
             {{-- END SERVICE SECTION --}}
+
+
+            {{-- FEATURED SECTION --}}
+            <section class="featured section-gap" id="featured">
+                <div class="row">
+                    <div class="col-lg-5 mb-5 mb-lg-0">
+                        <h3 class="title" style="margin-top: 20px">Unlocking Financial Success: Discover Our Featured
+                            Services at Numerica
+                            Accounting</h3>
+                        <p class="paragraph" style="margin-bottom: 42px;">Take control of your financial future with
+                            our
+                            strategic planning
+                            services. Our team of experts will analyze your financial goals, assess your current
+                            financial position, and develop a personalized roadmap to help you achieve your objectives.
+                        </p>
+                        <a href="#" class="button-default">Find Out More</a>
+                    </div>
+                    <div class="offset-xl-1 col-lg-7 col-xl-6">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="card-default">
+                                    <h6 class="primary" style="margin-bottom: 4px;">Expert Bookkeeping and Financial
+                                        Management</h6>
+                                    <p class="paragraph-small">Trust our experienced team
+                                        to handle your bookkeeping needs with attention to detail.</p>
+                                </div>
+                                <div class="card-default mt-4">
+                                    <h6 class="primary" style="margin-bottom: 4px;">Financial Analysis and Reporting
+                                    </h6>
+                                    <p class="paragraph-small">Gain valuable insights into
+                                        your business's financial performance with our detailed financial analysis.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="card-default">
+                                    <h6 class="primary" style="margin-bottom: 4px;">Strategic Tax Planning and
+                                        Compliance</h6>
+                                    <p class="paragraph-small">Our tax experts stay
+                                        up-to-date with the ever-changing tax laws and regulations.</p>
+                                </div>
+                                <div class="card-default mt-4">
+                                    <h6 class="primary" style="margin-bottom: 4px;">Business Advisory and Consulting
+                                    </h6>
+                                    <p class="paragraph-small">Our business advisory
+                                        services encompass financial forecasting, budgeting, cash flow management.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            {{-- END FEATURED SECTION --}}
         </div>
     </main>
 
