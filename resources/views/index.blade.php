@@ -387,7 +387,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-pagination-team"></div>
+                            <div class="swiper-pagination-team d-flex justify-content-center"></div>
                         </div>
                     </div>
                 </div>
@@ -563,7 +563,9 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="swiper-pagination-testimoni"></div>
+                            <div
+                                class="swiper-pagination-testimoni d-flex justify-content-center justify-content-lg-start">
+                            </div>
                         </div>
                     </div>
                 </div>
