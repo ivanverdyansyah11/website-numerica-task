@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
 </head>
 
-<body>
+<body id="home">
 
     {{-- NAVBAR --}}
     <nav class="navbar navbar-expand-lg py-3 position-relative">
@@ -27,13 +27,14 @@
             </button>
             <div class="collapse navbar-collapse d-lg-flex justify-content-lg-center" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-link py-2 py-lg-0 px-lg-3 active" href="">Home</a>
-                    <a class="nav-link py-2 py-lg-0 px-lg-3" href="">How we help</a>
-                    <a class="nav-link py-2 py-lg-0 px-lg-3" href="">Pricing</a>
-                    <a class="nav-link py-2 py-lg-0 px-lg-3" href="">Our Offering</a>
+                    <a class="nav-link py-2 py-lg-0 px-lg-3 active" href="#home">Home</a>
+                    <a class="nav-link py-2 py-lg-0 px-lg-3" href="#service">How we help</a>
+                    <a class="nav-link py-2 py-lg-0 px-lg-3" href="#adventage">Adventage</a>
+                    <a class="nav-link py-2 py-lg-0 px-lg-3" href="#team">Our team</a>
                 </div>
             </div>
-            <a href="#" class="button-default-small d-none d-lg-inline-block">Contact Us</a>
+            <a href="https://wa.me/6281234567890" target="_blank"
+                class="button-default-small d-none d-lg-inline-block">Contact Us</a>
         </div>
     </nav>
     {{-- END NAVBAR --}}
@@ -62,8 +63,9 @@
                                 the path to a prosperous future.</p>
                         </div>
                         <div class="wrapper-button d-flex gap-2 align-items-md-center flex-column flex-md-row">
-                            <a href="#" class="button-default">Get Started</a>
-                            <a href="#" class="button-dark d-flex align-items-center gap-2">
+                            <a href="#about" class="button-default">Get Started</a>
+                            <a href="https://wa.me/6281234567890" target="_blank"
+                                class="button-dark d-flex align-items-center gap-2">
                                 Request a Consultation
                                 <div class="arrow-icon"></div>
                             </a>
@@ -408,8 +410,8 @@
                             finances. Our advantages go beyond the numbers, offering you a comprehensive range of
                             benefits that set us apart
                         </p>
-                        <a href="#" class="button-default d-none d-lg-inline-block"
-                            style="margin-top: 42px;">Contact Us</a>
+                        <a href="https://wa.me/6281234567890" target="_blank"
+                            class="button-default d-none d-lg-inline-block" style="margin-top: 42px;">Contact Us</a>
                     </div>
                     <div class="offset-xl-1 col-lg-7 col-xl-6">
                         <div class="row">
@@ -781,8 +783,9 @@
                                 assist you with any accounting-related inquiries or business needs. Contact Numerica
                                 Accounting today to experience our exceptional service and expertise.
                             <div class="wrapper-button d-flex gap-2 align-items-md-center flex-column flex-md-row">
-                                <a href="#" class="button-default">See Our Service</a>
-                                <a href="#" class="button-dark d-flex align-items-center gap-2">
+                                <a href="#service" class="button-default">See Our Service</a>
+                                <a href="https://wa.me/6281234567890" target="_blank"
+                                    class="button-dark d-flex align-items-center gap-2">
                                     Request a Consultation
                                     <div class="arrow-icon"></div>
                                 </a>
@@ -807,15 +810,18 @@
                         <p class="paragraph-small" style="margin-bottom: 30px;">Welcome to Numerica, where numbers
                             come to life and financial clarity is our expertise.</p>
                         <div class="wrapper-sosmed d-flex gap-2">
-                            <a href="#" class="sosmed-icon d-flex justify-content-center align-items-center">
+                            <a href="https://id-id.facebook.com/" target="_blank"
+                                class="sosmed-icon d-flex justify-content-center align-items-center">
                                 <img src="{{ asset('assets/img/icon/facebook-icon.svg') }}" class="img-fluid"
                                     alt="Facebook Icon" width="16">
                             </a>
-                            <a href="#" class="sosmed-icon d-flex justify-content-center align-items-center">
+                            <a href="https://www.whatsapp.com/" target="_blank"
+                                class="sosmed-icon d-flex justify-content-center align-items-center">
                                 <img src="{{ asset('assets/img/icon/whatsapp-icon.svg') }}" class="img-fluid"
                                     alt="Whatsapp Icon" width="16">
                             </a>
-                            <a href="#" class="sosmed-icon d-flex justify-content-center align-items-center">
+                            <a href="https://twitter.com/?lang=id" target="_blank"
+                                class="sosmed-icon d-flex justify-content-center align-items-center">
                                 <img src="{{ asset('assets/img/icon/twitter-icon.svg') }}" class="img-fluid"
                                     alt="Twitter Icon" width="16">
                             </a>
@@ -826,9 +832,9 @@
                         <h6 style="margin-bottom: 20px">Quick Links</h6>
                         <div class="wrapper d-flex flex-column gap-3">
                             <a href="#home" class="paragraph-small">Home</a>
-                            <a href="#about" class="paragraph-small">How we help</a>
-                            <a href="#guideline" class="paragraph-small">Pricing</a>
-                            <a href="#pricing" class="paragraph-small">Our offering</a>
+                            <a href="#service" class="paragraph-small">How we help</a>
+                            <a href="#adventage" class="paragraph-small">Adventage</a>
+                            <a href="#team" class="paragraph-small">Our team</a>
                         </div>
                     </div>
                     <div class="col-6 col-md-3 col-xl-2">
@@ -843,9 +849,9 @@
                     <div class="col-6 col-md-3 col-lg-2">
                         <h6 style="margin-bottom: 20px">Help & guide</h6>
                         <div class="wrapper d-flex flex-column gap-3">
-                            <a href="" class="paragraph-small">Terms & Conditions</a>
-                            <a href="" class="paragraph-small">Privacy Policy</a>
-                            <a href="" class="paragraph-small">Contact Us</a>
+                            <a href="#" class="paragraph-small">Terms & Conditions</a>
+                            <a href="#" class="paragraph-small">Privacy Policy</a>
+                            <a href="#" class="paragraph-small">Contact Us</a>
                         </div>
                     </div>
                 </div>
