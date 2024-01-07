@@ -232,30 +232,30 @@
             id="about">
             <div class="banner-image position-absolute d-none d-lg-inline-block">
                 <img src="{{ asset('assets/img/banner/about-banner.svg') }}" class="img-fluid w-100 h-100"
-                    alt="About Banner Image">
+                    alt="About Banner Image" data-aos="fade" data-aos-duration="1400">
             </div>
             <div class="container position-relative">
                 <div class="row align-items-center">
                     <div class="offset-lg-6 offset-xxl-5 col-lg-6 col-xxl-7">
-                        <h3 class="title" style="margin-bottom: 20px">Unlocking Financial Success: Discover Our
+                        <h3 class="title" style="margin-bottom: 20px" data-aos="fade-left" data-aos-duration="1400">Unlocking Financial Success: Discover Our
                             Featured
                             Services at Numerica
                             Accounting</h3>
                         <div class="wrapper-paragraph d-flex flex-column gap-2" style="margin-bottom: 42px;">
-                            <p class="paragraph">Welcome to Numerica, where numbers come to life and financial
+                            <p class="paragraph" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="500">Welcome to Numerica, where numbers come to life and financial
                                 clarity
                                 is our expertise. As a leading accounting firm, we are committed to providing
                                 accurate,
                                 reliable, and comprehensive financial solutions tailored to meet your specific
                                 needs.
                             </p>
-                            <p class="paragraph d-none d-md-inline-block">Whether you're an individual, a small
+                            <p class="paragraph d-none d-md-inline-block" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="700">Whether you're an individual, a small
                                 business, or a large corporation, Numerica is here to guide you towards financial
                                 success with our unparalleled expertise and personalized approach. Together we'll
                                 pave
                                 the path to a prosperous future.</p>
                         </div>
-                        <div class="row">
+                        <div class="row" data-aos="zoom-in" data-aos-duration="1000">
                             <div class="col-6 col-md-3 mb-4 mb-md-0">
                                 <h2 class="fact-value">08+</h2>
                                 <p class="fact-caption">Total Service</p>
