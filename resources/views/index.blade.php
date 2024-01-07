@@ -582,11 +582,11 @@
             <div class="container">
                 <div class="row align-items-end justify-content-between row-gap">
                     <div class="col-lg-6 mb-2 mb-lg-0">
-                        <h3 class="title">Explore our FAQ Section at Numerica Accounting
+                        <h3 class="title" data-aos="fade-right" data-aos-duration="1400">Explore our FAQ Section at Numerica Accounting
                         </h3>
                     </div>
                     <div class="col-lg-5">
-                        <p class="paragraph">That's why we have compiled a comprehensive FAQ section to address your
+                        <p class="paragraph" data-aos="fade-left" data-aos-duration="1400">That's why we have compiled a comprehensive FAQ section to address your
                             concerns. Here are some commonly asked questions and answers.
                         </p>
                     </div>
@@ -594,7 +594,7 @@
 
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="accordion" id="accordionExample">
+                        <div class="accordion" id="accordionExample" data-aos="fade-up" data-aos-duration="1000">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button card-default" type="button"
@@ -615,7 +615,7 @@
                             </div>
                         </div>
 
-                        <div class="accordion mt-3" id="accordionExample">
+                        <div class="accordion mt-3" id="accordionExample" data-aos="fade-up" data-aos-duration="1000">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button card-default" type="button"
@@ -635,7 +635,7 @@
                             </div>
                         </div>
 
-                        <div class="accordion mt-3" id="accordionExample">
+                        <div class="accordion mt-3" id="accordionExample" data-aos="fade-up" data-aos-duration="1000">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button card-default" type="button"
@@ -656,7 +656,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 mt-3 mt-md-0">
+                    <div class="col-md-6 mt-3 mt-md-0" data-aos="fade-up" data-aos-duration="1000">
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
@@ -677,7 +677,7 @@
                             </div>
                         </div>
 
-                        <div class="accordion mt-3" id="accordionExample">
+                        <div class="accordion mt-3" id="accordionExample" data-aos="fade-up" data-aos-duration="1000">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button card-default" type="button"
@@ -697,7 +697,7 @@
                             </div>
                         </div>
 
-                        <div class="accordion mt-3" id="accordionExample">
+                        <div class="accordion mt-3" id="accordionExample" data-aos="fade-up" data-aos-duration="1000">
                             <div class="accordion-item">
                                 <h2 class="accordion-header">
                                     <button class="accordion-button card-default" type="button"
