@@ -404,20 +404,20 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 mb-5 mb-lg-0">
-                        <h3 class="title" style="margin-bottom: 20px">Unlocking Your Financial Potential: Experience
+                        <h3 class="title" style="margin-bottom: 20px" data-aos="fade-right" data-aos-duration="1400">Unlocking Your Financial Potential: Experience
                             the Numerica Advantage</h3>
-                        <p class="paragraph">At Numerica Accounting, we are committed to
+                        <p class="paragraph" data-aos="fade-right" data-aos-duration="1400" data-aos-delay="500">At Numerica Accounting, we are committed to
                             providing exceptional accounting services that give you a competitive edge in managing your
                             finances. Our advantages go beyond the numbers, offering you a comprehensive range of
                             benefits that set us apart
                         </p>
                         <a href="https://wa.me/6281234567890" target="_blank"
-                            class="button-default d-none d-lg-inline-block" style="margin-top: 42px;">Contact Us</a>
+                            class="button-default d-none d-lg-inline-block" style="margin-top: 42px;" data-aos="fade-right" data-aos-duration="1400" data-aos-delay="1000">Contact Us</a>
                     </div>
                     <div class="offset-xl-1 col-lg-7 col-xl-6">
                         <div class="row">
                             <div class="col-md-6">
-                                <div class="card-default">
+                                <div class="card-default" data-aos="fade-left" data-aos-duration="1400">
                                     <div class="card-number d-flex justify-content-center align-items-center"
                                         style="margin-bottom: 14px">
                                         <h4>1</h4>
@@ -427,7 +427,7 @@
                                         years of experience in the field.</p>
                                 </div>
 
-                                <div class="card-default d-md-none mt-4">
+                                <div class="card-default d-md-none mt-4" data-aos="fade-left" data-aos-duration="1400">
                                     <div class="card-number d-flex justify-content-center align-items-center"
                                         style="margin-bottom: 14px">
                                         <h4>2</h4>
@@ -437,7 +437,7 @@
                                         personalized approach to meet your specific.</p>
                                 </div>
 
-                                <div class="card-default mt-4">
+                                <div class="card-default mt-4" data-aos="fade-left" data-aos-duration="1400">
                                     <div class="card-number d-flex justify-content-center align-items-center"
                                         style="margin-bottom: 14px;">
                                         <h4>3</h4>
@@ -449,7 +449,7 @@
                             </div>
 
                             <div class="col-md-6">
-                                <div class="card-default d-none d-md-inline-block">
+                                <div class="card-default d-none d-md-inline-block" data-aos="fade-left" data-aos-duration="1400">
                                     <div class="card-number d-flex justify-content-center align-items-center"
                                         style="margin-bottom: 14px">
                                         <h4>2</h4>
@@ -459,7 +459,7 @@
                                         personalized approach to meet your specific.</p>
                                 </div>
 
-                                <div class="card-default mt-4">
+                                <div class="card-default mt-4" data-aos="fade-left" data-aos-duration="1400">
                                     <div class="card-number d-flex justify-content-center align-items-center"
                                         style="margin-bottom: 14px">
                                         <h4>4</h4>
@@ -471,7 +471,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 mt-4 d-lg-none">
+                    <div class="col-12 mt-4 d-lg-none" data-aos="fade-up" data-aos-duration="1400">
                         <a href="#" class="button-default">Contact Us</a>
                     </div>
                 </div>
