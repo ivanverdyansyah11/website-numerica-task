@@ -772,7 +772,7 @@
 
         {{-- CTA --}}
         <div class="container">
-            <section class="cta">
+            <section class="cta" data-aos="zoom-out" data-aos-duration="1400">
                 <div class="container">
                     <div class="row justify-content-center">
                         <div
