@@ -485,14 +485,14 @@
             id="testimoni">
             <div class="banner-image-reverse position-absolute d-none d-lg-inline-block">
                 <img src="{{ asset('assets/img/banner/testimoni-banner.svg') }}" class="img-fluid w-100 h-100"
-                    alt="Testimoni Banner Image">
+                    alt="Testimoni Banner Image" data-aos="fade" data-aos-duration="1400">
             </div>
             <div class="container position-relative">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-xxl-7">
-                        <h3 class="title" style="margin-bottom: 20px">Hear What Our Clients Have to Say About
+                        <h3 class="title" style="margin-bottom: 20px" data-aos="fade-right" data-aos-duration="1400">Hear What Our Clients Have to Say About
                             Numerica Accounting</h3>
-                        <p class="paragraph" style="margin-bottom: 42px;">At Numerica Accounting, we pride ourselves
+                        <p class="paragraph" style="margin-bottom: 42px;" data-aos="fade-right" data-aos-duration="1400" data-aos-delay="300">At Numerica Accounting, we pride ourselves
                             on delivering exceptional
                             accounting services and building strong relationships with our clients. Here are some
                             testimonials from satisfied clients who have experienced the Numerica difference
@@ -500,7 +500,7 @@
                         <div class="wrapper">
                             <div class="swiper mySwiperTestimoni">
                                 <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400">
                                         <div class="card-default">
                                             <div class="wrapper-profile d-flex gap-3" style="margin-bottom: 14px;">
                                                 <img src="{{ asset('assets/img/testimoni/testimoni-1.svg') }}"
@@ -516,7 +516,7 @@
                                                 planning.”</p>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="500">
                                         <div class="card-default">
                                             <div class="wrapper-profile d-flex gap-3" style="margin-bottom: 14px;">
                                                 <img src="{{ asset('assets/img/testimoni/testimoni-2.svg') }}"
@@ -532,7 +532,7 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="1000">
                                         <div class="card-default">
                                             <div class="wrapper-profile d-flex gap-3" style="margin-bottom: 14px;">
                                                 <img src="{{ asset('assets/img/testimoni/testimoni-1.svg') }}"
@@ -548,7 +548,7 @@
                                                 planning.”</p>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="1500">
                                         <div class="card-default">
                                             <div class="wrapper-profile d-flex gap-3" style="margin-bottom: 14px;">
                                                 <img src="{{ asset('assets/img/testimoni/testimoni-2.svg') }}"
