@@ -83,17 +83,17 @@
             <div class="container">
                 <div class="row align-items-end justify-content-between row-gap gap-2 gap-lg-0">
                     <div class="col-lg-6 mb-2 mb-lg-0">
-                        <h3 class="title">Empowering Your Financial Success, Discover the Numerica Difference</h3>
+                        <h3 class="title" data-aos="fade-right" data-aos-duration="1400">Empowering Your Financial Success, Discover the Numerica Difference</h3>
                     </div>
                     <div class="col-lg-5">
-                        <p class="paragraph">From bookkeeping to financial statement preparation, our comprehensive
+                        <p class="paragraph" data-aos="fade-left" data-aos-duration="1400">From bookkeeping to financial statement preparation, our comprehensive
                             accounting services ensure accuracy, compliance, and clarity in your financial records.
                         </p>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                    <div class="col-md-6 col-lg-3 mb-4 mb-lg-0" data-aos="fade-left" data-aos-duration="1400">
                         <div class="card-default">
                             <div class="card-image" style="margin-bottom: 14px">
                                 <img src="{{ asset('assets/img/service/service-1.svg') }}" class="img-fluid"
@@ -110,7 +110,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
+                    <div class="col-md-6 col-lg-3 mb-4 mb-lg-0" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="500">
                         <div class="card-default">
                             <div class="card-image" style="margin-bottom: 14px">
                                 <img src="{{ asset('assets/img/service/service-2.svg') }}" class="img-fluid"
@@ -127,7 +127,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3 mb-4 mb-md-0">
+                    <div class="col-md-6 col-lg-3 mb-4 mb-md-0" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="1000">
                         <div class="card-default">
                             <div class="card-image" style="margin-bottom: 14px">
                                 <img src="{{ asset('assets/img/service/service-3.svg') }}" class="img-fluid"
@@ -144,7 +144,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-3">
+                    <div class="col-md-6 col-lg-3" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="1500">
                         <div class="card-default">
                             <div class="card-image" style="margin-bottom: 14px">
                                 <img src="{{ asset('assets/img/service/service-4.svg') }}" class="img-fluid"
