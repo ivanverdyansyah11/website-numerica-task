@@ -730,9 +730,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 mb-5 mb-lg-0">
-                        <h3 class="title" style="margin-bottom: 20px">Get in Touch with Numerica Accounting, Your
+                        <h3 class="title" style="margin-bottom: 20px" data-aos="fade-right" data-aos-duration="1400">Get in Touch with Numerica Accounting, Your
                             Trusted Accounting Partner</h3>
-                        <p class="paragraph">We value open communication and are here to
+                        <p class="paragraph" data-aos="fade-right" data-aos-duration="1400" data-aos-delay="300">We value open communication and are here to
                             assist you with any accounting-related inquiries or business needs. Contact Numerica
                             Accounting today to experience our exceptional service and expertise.
                         </p>
@@ -741,25 +741,25 @@
                         <form action="">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <label>
+                                    <label data-aos="fade-left" data-aos-duration="1400">
                                         <p class="paragraph-small">Username</p>
                                         <input type="text" class="input" placeholder="Enter your username">
                                     </label>
                                 </div>
                                 <div class="col-md-6 mt-4 mt-md-0">
-                                    <label>
+                                    <label data-aos="fade-left" data-aos-duration="1400">
                                         <p class="paragraph-small">Email</p>
                                         <input type="text" class="input" placeholder="Enter your email">
                                     </label>
                                 </div>
                                 <div class="col-12 mt-4">
-                                    <label>
+                                    <label data-aos="fade-left" data-aos-duration="1400">
                                         <p class="paragraph-small">Message</p>
                                         <textarea rows="4" class="input" placeholder="Enter your message"></textarea>
                                     </label>
                                 </div>
                                 <div class="col-12 mt-4">
-                                    <button type="button" class="button-default">Submit Message</button>
+                                    <button type="button" class="button-default" data-aos="fade" data-aos-duration="1400">Submit Message</button>
                                 </div>
                             </div>
                         </form>
