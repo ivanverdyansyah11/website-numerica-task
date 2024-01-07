@@ -41,30 +41,29 @@
     </nav>
     {{-- END NAVBAR --}}
 
-
     <main>
         {{-- HERO SECTION --}}
         <section class="hero d-flex align-items-center py-4 py-lg-0 pb-xl-5 pb-xxl-0 position-relative" id="hero">
             <div class="banner-image-reverse position-absolute d-none d-lg-inline-block">
                 <img src="{{ asset('assets/img/banner/hero-banner.svg') }}" class="img-fluid w-100 h-100"
-                    alt="hero Banner Image">
+                    alt="hero Banner Image" data-aos="fade" data-aos-duration="1400">
             </div>
             <div class="container position-relative">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <h1 class="headline" style="margin-bottom: 20px;">Unlock the Power of Numbers with Numerica,
+                        <h1 class="headline" style="margin-bottom: 20px;" data-aos="fade-right" data-aos-duration="1400" data-aos-delay="1400">Unlock the Power of Numbers with Numerica,
                             Your Trusted Accounting Partner</h1>
                         <div class="wrapper-paragraph d-flex flex-column gap-2" style="margin-bottom: 42px;">
-                            <p class="paragraph">Welcome to Numerica, where numbers come to life and financial clarity
+                            <p class="paragraph" data-aos="fade-right" data-aos-duration="1400" data-aos-delay="2000">Welcome to Numerica, where numbers come to life and financial clarity
                                 is our expertise. As a leading accounting firm, we are committed to providing accurate,
                                 reliable, and comprehensive financial solutions tailored to meet your specific needs.
                             </p>
-                            <p class="paragraph d-none d-md-inline-block">Whether you're an individual, a small
+                            <p class="paragraph d-none d-md-inline-block" data-aos="fade-right" data-aos-duration="1400" data-aos-delay="2200">Whether you're an individual, a small
                                 business, or a large corporation, Numerica is here to guide you towards financial
                                 success with our unparalleled expertise and personalized approach. Together we'll pave
                                 the path to a prosperous future.</p>
                         </div>
-                        <div class="wrapper-button d-flex gap-2 align-items-md-center flex-column flex-md-row">
+                        <div class="wrapper-button d-flex gap-2 align-items-md-center flex-column flex-md-row" data-aos="fade-right" data-aos-duration="1400">
                             <a href="#about" class="button-default">Get Started</a>
                             <a href="https://wa.me/6281234567890" target="_blank"
                                 class="button-dark d-flex align-items-center gap-2">
