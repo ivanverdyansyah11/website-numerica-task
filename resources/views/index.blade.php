@@ -285,11 +285,11 @@
             <div class="container">
                 <div class="row align-items-end justify-content-between row-gap gap-2 gap-lg-0">
                     <div class="col-lg-6 mb-2 mb-lg-0">
-                        <h3 class="title">Unlocking Your Financial Potential, Experience the Numerica Advantage
+                        <h3 class="title" data-aos="fade-right" data-aos-duration="1400">Unlocking Your Financial Potential, Experience the Numerica Advantage
                         </h3>
                     </div>
                     <div class="col-lg-5">
-                        <p class="paragraph">Our skilled professionals stay up-to-date with the latest industry
+                        <p class="paragraph" data-aos="fade-left" data-aos-duration="1400">Our skilled professionals stay up-to-date with the latest industry
                             regulations and best practices to ensure accurate and reliable financial services.
                         </p>
                     </div>
@@ -300,7 +300,7 @@
                         <div class="wrapper">
                             <div class="swiper mySwiperTeam">
                                 <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400">
                                         <div class="card-default d-flex gap-4 align-items-start">
                                             <img src="{{ asset('assets/img/team/team-1.svg') }}"
                                                 class="img-fluid rounded" alt="Team Image">
@@ -315,7 +315,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="500">
                                         <div class="card-default d-flex gap-4 align-items-start">
                                             <img src="{{ asset('assets/img/team/team-2.svg') }}"
                                                 class="img-fluid rounded" alt="Team Image">
@@ -329,7 +329,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="1000">
                                         <div class="card-default d-flex gap-4 align-items-start">
                                             <img src="{{ asset('assets/img/team/team-3.svg') }}"
                                                 class="img-fluid rounded" alt="Team Image">
@@ -344,7 +344,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="1500">
                                         <div class="card-default d-flex gap-4 align-items-start">
                                             <img src="{{ asset('assets/img/team/team-1.svg') }}"
                                                 class="img-fluid rounded" alt="Team Image">
@@ -359,7 +359,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="1400" data-aos-delay="2000">
                                         <div class="card-default d-flex gap-4 align-items-start">
                                             <img src="{{ asset('assets/img/team/team-2.svg') }}"
                                                 class="img-fluid rounded" alt="Team Image">
@@ -373,7 +373,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="swiper-slide">
+                                    <div class="swiper-slide" data-aos="fade-left" data-aos-duration="2500">
                                         <div class="card-default d-flex gap-4 align-items-start">
                                             <img src="{{ asset('assets/img/team/team-3.svg') }}"
                                                 class="img-fluid rounded" alt="Team Image">
