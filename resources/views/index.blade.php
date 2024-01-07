@@ -11,12 +11,14 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    {{-- END STYLE --}}
 </head>
 
 <body id="home">
 
     {{-- NAVBAR --}}
-    <nav class="navbar navbar-expand-lg py-3 position-relative">
+    <nav class="navbar navbar-expand-lg py-3 position-relative" data-aos="fade-down" data-aos-duration="1200">
         <div class="container d-flex justify-content-between">
             <a class="navbar-brand" href="#home">
                 <img src="{{ asset('assets/img/logo/logo-brand.svg') }}" class="img-fluid" alt="Logo Brand">
@@ -871,8 +873,11 @@
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script src="{{ asset('assets/js/bootstrap.bundle.min.js') }}"></script>
     <script src="{{ asset('assets/js/script.js') }}"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
     <script>
+        AOS.init();
+
         var swiper = new Swiper(".mySwiperTeam", {
             slidesPerView: 1,
             spaceBetween: 20,
@@ -915,6 +920,7 @@
             },
         });
     </script>
+    {{-- END SCRIPT --}}
 </body>
 
 </html>

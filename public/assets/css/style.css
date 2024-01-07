@@ -21,7 +21,7 @@
 * {
     font-family: var(--urbanist-medium);
     color: rgba(var(--dark-color), 1);
-    transition: 250ms !important;
+    transition: 250ms;
 }
 
 body {
